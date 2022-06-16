@@ -1,0 +1,20 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.pdb
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.exe.config
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.exe
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.pdb
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.Form1.resources
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.Properties.Resources.resources
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.GenerateResource.cache
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.exe
+C:\Users\Gustavo\Downloads\Ptriangulo\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.pdb
